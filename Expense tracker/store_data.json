@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "pizza",
+        "category": "Food",
+        "amount": 100.0,
+        "date": "12 jan"
+    },
+    {
+        "id": 2,
+        "name": "goa",
+        "category": "Travel",
+        "amount": 12312.0,
+        "date": "1 march"
+    },
+    {
+        "id": 3,
+        "name": "India",
+        "category": "Travel",
+        "amount": 1313.0,
+        "date": "23 jan"
+    },
+    {
+        "id": 4,
+        "name": "Bottle",
+        "category": "Other",
+        "amount": 123.0,
+        "date": "13 apr"
+    },
+    {
+        "id": 5,
+        "name": "Laptop",
+        "category": "Shopping",
+        "amount": 13112.0,
+        "date": "20 nov"
+    },
+    {
+        "id": 6,
+        "name": "Trees",
+        "category": "Shopping",
+        "amount": 123.0,
+        "date": "2 dec"
+    },
+    {
+        "id": 7,
+        "name": "pizza",
+        "category": "Food",
+        "amount": 122.0,
+        "date": "12 nov"
+    },
+    {
+        "id": 8,
+        "name": "Helth",
+        "category": "Other",
+        "amount": 50000.0,
+        "date": "13 sep"
+    },
+    {
+        "id": 9,
+        "name": "free fire",
+        "category": "Other",
+        "amount": 10000.0,
+        "date": "1 march"
+    },
+    {
+        "id": 10,
+        "name": "pizza",
+        "category": "Food",
+        "amount": 300.0,
+        "date": "1 oct"
+    },
+    {
+        "id": 11,
+        "name": "laptop Hp",
+        "category": "Shopping",
+        "amount": 99000.0,
+        "date": "12 jan"
+    }
+]
