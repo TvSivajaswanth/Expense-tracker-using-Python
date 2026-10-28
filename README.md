@@ -1,10 +1,13 @@
 # Expense Tracker
 
 A desktop expense tracker built with Python and Tkinter. Add your expenses, see them in a table, delete the ones you don't need, and view your spending by category with bar and pie charts. Your data is saved automatically, so it's still there when you reopen the app.
+<h2>Home page</h2><br>
+<img width="640" height="582" alt="Screenshot 2026-10-28 205159" src="https://github.com/user-attachments/assets/490ecdeb-29df-4b80-9880-c6fbfed2cf55" /><br>
+<h2>Main page</h2><br>
+<img width="845" height="692" alt="Screenshot 2026-10-28 205207" src="https://github.com/user-attachments/assets/e7cea699-de4a-4077-ad8b-715dbda9f7c1" /><br>
+<h2>Charts page</h2><br>
+<img width="1107" height="882" alt="Screenshot 2026-10-28 205222" src="https://github.com/user-attachments/assets/f2d0ff4e-620a-4346-8258-b6317ab2ca01" /><br>
 
-![Home page](screenshots/home.png)
-![Expense table](screenshots/main.png)
-![Charts page](screenshots/charts.png)
 
 ## Features
 
