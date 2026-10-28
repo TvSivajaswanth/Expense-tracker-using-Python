@@ -34,8 +34,7 @@ A desktop expense tracker built with Python and Tkinter. Add your expenses, see 
    ```
 2. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/expense-tracker.git
-   cd expense-tracker
+   git https://github.com/TvSivajaswanth/Expense-tracker-using-Python.git
    ```
 3. Install the one required package:
    ```bash
